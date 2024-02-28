@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*" 
+polars = "*"
+pandas = "*"
+numpy = "*"
+plotly-express = "*"
+streamlit-extras = "*"
+notebook = "*"
+black = "*"
+spacy = "*"
+nltk = "*"
+wordcloud = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

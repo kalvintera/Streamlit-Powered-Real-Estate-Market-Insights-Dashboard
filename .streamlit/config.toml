@@ -1,0 +1,10 @@
+[theme]
+base="dark"
+primaryColor="#262730"
+backgroundColor="#FFFFFF"  #1F1F1F
+secondaryBackgroundColor="#E8E8E8"  #"#262730"
+textColor="#343734"
+font="sans serif"
+
+[server]
+maxMessageSize= 1024  # Increase as needed in MB# Size in MB
